@@ -4,6 +4,14 @@ Implementación de un cubo de Rubik 3D interactivo usando OpenGL y GLUT en C.
 
 **📚 Proyecto creado para la materia de Graficación por Computadora, en la Universidad Veracruzana.**
 
+## 📸 Vista Previa
+
+<div align="center">
+  <img src="images/cubo-rubik.png" alt="Cubo de Rubik" width="500"/>
+</div>
+
+*Vista del cubo de Rubik en ejecución*
+
 ## 🚀 Características
 
 - ✅ Cubo de Rubik 3x3x3 completamente funcional
