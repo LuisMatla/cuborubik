@@ -2,6 +2,8 @@
 
 Implementación de un cubo de Rubik 3D interactivo usando OpenGL y GLUT en C.
 
+**Proyecto creado para la materia de Graficación por Computadora, en la Universidad Veracruzana.**
+
 ## Características
 
 - Cubo de Rubik 3x3x3 completamente funcional
@@ -68,6 +70,10 @@ gcc -o Cubo_Rubik Cubo_Rubik.c -lGL -lGLU -lglut -lm
 ## Autor
 
 Luis Matla
+
+## Información del Proyecto
+
+Este proyecto fue desarrollado como parte de la materia de **Graficación por Computadora** en la **Universidad Veracruzana**.
 
 ## Licencia
 
