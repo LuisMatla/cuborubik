@@ -6,9 +6,8 @@ Implementación de un cubo de Rubik 3D interactivo usando OpenGL y GLUT en C.
 
 ## 📸 Vista Previa
 
-<div align="center">
-  <img src="images/cubo-rubik.png" alt="Cubo de Rubik" width="500"/>
-</div>
+<img width="497" height="532" alt="Captura desde 2025-11-14 22-38-25" src="https://github.com/user-attachments/assets/57af1d69-753d-499b-873a-5fce1ddd0c00" />
+
 
 *Vista del cubo de Rubik en ejecución*
 
