@@ -83,13 +83,21 @@ gcc -o Cubo_Rubik Cubo_Rubik.c -lGL -lGLU -lglut -lm
 
 - 📄 `Cubo_Rubik.c`: Código fuente principal con toda la lógica del cubo de Rubik
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-**Luis Fernando Contreras Matla**
+Luis Fernando Contreras Matla.
 
-## 📖 Información del Proyecto
+## 📚 Información Académica
 
-Este proyecto fue desarrollado como parte de la materia de **Graficación por Computadora** en la **Universidad Veracruzana**.
+Este proyecto fue desarrollado como parte de la Experiencia Educativa:
+
+**Materia:** Graficación por Computadora.
+
+**Universidad:** Universidad Veracruzana.
+
+**Facultad:** Ingeniería Eléctrica y Electrónica.
+
+**Docente:** Yuliana Berumen Diaz.
 
 ## 📄 Licencia
 
